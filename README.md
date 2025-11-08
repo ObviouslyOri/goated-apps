@@ -7,4 +7,4 @@ Welcome to this repository! I have been a long-term Android and Windows user. Du
 
 ## 1. [Stratum] (https://stratumauth.com/) - FOSS
 
-Stratum is an application that I have installed on every android device I have. It's a straightforward, no bullshit and customisable authenticator app that is available on both [Play Store] (https://play.google.com/store/apps/details?id=com.stratumauth.app) and on [GitHub} (https://github.com/stratumauth/app/releases/tag/v1.4.0). It's what Google Authenticator, Authy and whatever else should have been, but is not.
+Stratum is an application that I have installed on every android device I have. It's a straightforward, no bullshit and customisable authenticator app that is available on both [Play Store] (https://play.google.com/store/apps/details?id=com.stratumauth.app) and on [GitHub] (https://github.com/stratumauth/app/releases/tag/v1.4.0). It's what Google Authenticator, Authy and whatever else should have been, but is not.
